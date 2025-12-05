@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: "Courier New", monospace;
+    background: #ff9acb;
+    color: white;
+}
+
+canvas {
+    background: #ffa7d8;
+    border: 6px solid #ff4f8b;
+    display: block;
+    margin: 20px auto;
+    image-rendering: pixelated;
+}
+
+#restartBtn {
+    padding: 12px 26px;
+    font-size: 18px;
+    border: none;
+    background: #ff4f8b;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    display: none;
+    margin-top: 20px;
+}
